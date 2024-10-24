@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+</head>
+<body>
+  <nav>
+    <a href="{{ '/' | index.md }}">Home</a>
+    <a href="{{ '/about' | about.md }}">About</a>
+    <a href="{{ '/projects' | contact.md }}">Contact</a>
+    <a href="{{ '/contact' | coaching.md }}">Life Coaching</a>
+  </nav>
+  
+  <div>
+    {{ content }}
+  </div>
+</body>
+</html>
