@@ -1,3 +1,8 @@
+---
+layout: default
+title: Coaching
+---
+
 ## Coach Kayla
 
 # What is Life Coaching?
