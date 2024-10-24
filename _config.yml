@@ -1,2 +1,4 @@
 title: Reclaiming Your Brain
 theme: jekyll-theme-minimal
+# Disable the sidebar's GitHub profile link
+github_username: false
