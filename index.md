@@ -1,12 +1,12 @@
 ## Reclaiming Your Brain
 
-Blog
+[Blog](./index.md)
 
-About
+[About](./about.md)
 
-Content
+[Contact](./contact.md)
 
-Life Coaching
+[Life Coaching](./coaching.md)
 
 ## Kayla's Korner
 
