@@ -1,3 +1,8 @@
+---
+layout: default
+title: About
+---
+
 ## Who am I?
 
 My name is Kayla, and I am a professional in the field of neurotechnology. More importantly, however, I am an advocate for good brain health. As someone who has experienced depression and anxiety, I understand just how important it is to maintain good brain health. 
