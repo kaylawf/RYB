@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 ## Reclaiming Your Brain
 
 [Blog](./index.md)
