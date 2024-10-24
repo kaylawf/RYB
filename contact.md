@@ -1,3 +1,8 @@
+---
+layout: default
+title: Contact
+---
+
 For questions or inquiries, you can fill out the form below:
 
 ​Send
