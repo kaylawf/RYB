@@ -1,19 +1,27 @@
----
-title: Reclaiming Your Brain
-description: This is the new home for RYB!
----
+## Reclaiming Your Brain
 
-# 1
+Blog
 
-Hello, this is section 1 and the rest of it:
+About
 
-## 2
-I’m playing around
+Content
 
-## 3
-Here's what's going on:
-1 - 
-2 - 
+Life Coaching
 
-## 4
-My email is .com
+## Kayla's Korner
+
+# All Posts
+
+1
+
+2
+
+3
+
+4
+
+5
+
+To get notified of new blog posts, subscribe to our mailing list!
+
+Thanks for subscribing!
